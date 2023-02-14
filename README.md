@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Hi there. I'm Nelson, a full-time full-stack developer in Node and React since 2017</div>
 
@@ -91,8 +90,7 @@
 <a href="https://linkedin.com/in/nelson-mbau" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -104,8 +102,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ndungu-mbau&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
@@ -117,7 +114,3 @@
                 />
             </a></div>
 <br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
